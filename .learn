@@ -10,3 +10,5 @@ topic:
 lesson: 
   - print, puts, and return
 
+
+parent_template: git@github.com:learn-co-curriculum/puts-print-and-return-readme.git

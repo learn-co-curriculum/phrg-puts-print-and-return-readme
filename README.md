@@ -202,6 +202,4 @@ On the next line, execute `total + 17`. You should see a return value of `=> 26`
 
 As we've just done, you'll find that we will often store return values in variables so that we can use them later.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/puts-print-and-return-readme' title='Print, Puts, and Return'>Print, Puts, and Return</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/puts-print-and-return-readme'>Puts and Return</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Print, Puts, and Return</p>
