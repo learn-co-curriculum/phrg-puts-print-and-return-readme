@@ -202,4 +202,8 @@ On the next line, execute `total + 17`. You should see a return value of `=> 26`
 
 As we've just done, you'll find that we will often store return values in variables so that we can use them later.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-puts-print-and-return-readme/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-puts-print-and-return-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Print, Puts, and Return</p>
